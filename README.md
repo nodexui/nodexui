@@ -1,4 +1,10 @@
-## Hi there 👋
+## NodexUI is CSS library!
+
+<p>NodexUI is processing to build. NodexUI is not official launched yet.</p>
+
+<br><br>
+
+<p>This is official NodexUI Github account!</p>
 
 <!--
 **nodexui/nodexui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
