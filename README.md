@@ -9,11 +9,16 @@
 <b>📗 More about NodexUI :-</b>
 <p>NodexUI is CSS library. You can make your website with Resources, useful sites and NodexUI CDN.</p>
 <p>✨ The main concept of NodexUI is make a different feature from others library.</p>
-<p>NodexUI have own CSS, you can install it via CDN.</p>
+<p>NodexUI have own CSS, you can install it via CDN.</p><br><br>
+
+<b>🔗 Install NodexUI via CDN</b>
+
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nodexui/npm@main/v1.0.0.css">
+```
 
 <br><br>
 <b>🧑‍💻 NodexUI Developer details :-</b>
 <p>NodexUI is launched by Dhaval Mandaviya and also make & build it by Dhaval Mandaviya.</p>
 <p>Dhaval Mandaviya is expert Fronted Developer and UUI/UX designer.</p>
 <a href="https://dhavalmandaviya.github.io">View Profile</a>
-
