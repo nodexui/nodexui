@@ -1,7 +1,6 @@
 ## NodexUI v1.0
 
-<p>NodexUI is processing to build. NodexUI is not official launched yet.</p>
-<p>NodexUI will officially launch on 21 October, 2026.</p>
+<p>NodexUI was officially launch on 21 October, 2026.</p>
 <p>This is official NodexUI Github account!</p>
 <a href="https://nodexui.github.io">View website</a>
 <br><br><br>
@@ -20,5 +19,5 @@
 <br><br>
 <b>🧑‍💻 NodexUI Developer details :-</b>
 <p>NodexUI is launched by Dhaval Mandaviya and also make & build it by Dhaval Mandaviya.</p>
-<p>Dhaval Mandaviya is expert Fronted Developer and UUI/UX designer.</p>
+<p>Dhaval Mandaviya is expert Fronted Developer and UI/UX designer.</p>
 <a href="https://dhavalmandaviya.github.io">View Profile</a>
